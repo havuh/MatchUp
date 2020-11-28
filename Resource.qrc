@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Resource/img/tinder-banner.png</file>
+        <file>Resource/img/angulo-de-flecha-derecha.png</file>
+        <file>Resource/img/boton.png</file>
+        <file>Resource/img/simbolo-de-linea-de-flecha-izquierda.png</file>
+        <file>Resource/img/usuario-gris.png</file>
+        <file>Resource/img/amigos-gris.png</file>
+        <file>Resource/img/apoyar-gris.png</file>
+        <file>Resource/img/usuario2-gris.png</file>
+        <file>Resource/img/hogar-gris.png</file>
+        <file>Resource/img/hogar-color.png</file>
+        <file>Resource/img/aspa.png</file>
+        <file>Resource/img/actualizar.png</file>
+        <file>Resource/img/ojo-color.png</file>
+        <file>Resource/img/anadir-amigo-color.png</file>
+        <file>Resource/img/trueno.png</file>
+        <file>Resource/img/apoyar-color.png</file>
+        <file>Resource/img/usuario-color.png</file>
+        <file>Resource/img/engranaje-color.png</file>
+        <file>Resource/img/lupa-gris.png</file>
+        <file>Resource/img/graduacion-gray.png</file>
+        <file>Resource/img/noticias-color.png</file>
+        <file>Resource/img/noticias-gris.png</file>
+        <file>Resource/img/calendario-gris.png</file>
+        <file>Resource/img/generos-gris.png</file>
+        <file>Resource/img/reloj-de-arena-gris.png</file>
+        <file>Resource/img/telefono-gris.png</file>
+        <file>Resource/img/flecha-izquierda-white.png</file>
+        <file>Resource/img/boton - punto.png</file>
+        <file>Resource/img/enviar-color.png</file>
+        <file>Resource/img/default-user.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>Resource/icon/dialog.ico</file>
+        <file>Resource/icon/google.ico</file>
+        <file>Resource/icon/logo_tinder.ico</file>
+        <file>Resource/img/personas.png</file>
+        <file>Resource/img/iniciar-la-sesion.png</file>
+        <file>Resource/img/tinder-banner.png</file>
+        <file>Resource/img/engranaje_gris.png</file>
+    </qresource>
+</RCC>
