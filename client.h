@@ -8,12 +8,12 @@
 class Client
 {
 private:
-    User                        userData;				//Todos los datos del usuario (registrado)
-    unsigned int                pos;					//Posicion de listFeed
-    vector<User>                listFeed;				//Lista de personas para agregar (primero los pendientes, y luego los compatibles)
-    Avl<User, string>*          treefriendData;			//Avl de mis amigos (UserClientes)
+    User                        userData;				//All user information (register)
+    unsigned int                pos;					//List feed position 
+    vector<User>                listFeed;				//List of add persons (pendents first, then compatibles)
+    Avl<User, string>*          treefriendData;			//Avl of friends (UserClients)
     vector<User>                listfriendsData;
-    vector<PublicationUser>     AllPubl;				//Vector con todas las publicaciones de amigos
+    vector<PublicationUser>     AllPubl;				//Vector of all publications
 
 public:
     Client() {
