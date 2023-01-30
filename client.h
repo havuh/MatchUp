@@ -8,7 +8,7 @@
 class Client
 {
 private:
-    User                        userData;				//Todos los datos del usuario (el que se registra)
+    User                        userData;				//Todos los datos del usuario (registrado)
     unsigned int                pos;					//Posicion de listFeed
     vector<User>                listFeed;				//Lista de personas para agregar (primero los pendientes, y luego los compatibles)
     Avl<User, string>*          treefriendData;			//Avl de mis amigos (UserClientes)
